@@ -4,3 +4,5 @@ __pycache__/
 # Python virtual environment (often good to exclude this too)
 .venv/
 venv/
+config.bat
+node_modules
